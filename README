@@ -3,3 +3,7 @@ you to be notified when a particular user becomes available. Since it is
 separate from the Skype application its settings can be customised individually 
 in the Growl preference pane. I have mine set to play a sound and show the 
 notification as a bezel.
+
+It probably isn't necessary for this to be two seperate scripts. At some point
+I should look in to consolidating them into one AppleScript or one Ruby scirpt.
+Probably the former.
