@@ -1,1 +1,5 @@
-I turned off most of Skype's pesky notifications. This pair of scripts allows you to be notified when a particular user becomes available. Since it is separate from the Skype application its settings can be customised individually in the Growl preference pane. I have mine set to play a sound and show the notification as a bezel.
+I turned off most of Skype's pesky notifications. This pair of scripts allows 
+you to be notified when a particular user becomes available. Since it is 
+separate from the Skype application its settings can be customised individually 
+in the Growl preference pane. I have mine set to play a sound and show the 
+notification as a bezel.
