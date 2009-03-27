@@ -14,4 +14,5 @@ while user_status != 'ONLINE'
 	user_status = user_status.split[-1]
 end
 
-system('growlnotify', '-n', 'Skype Pounce', '-t', 'Skype Pounce', '-m', "#{user} is online")
+time = Time.now.ctime
+system('growlnotify', '-t', 'Skype Pounce', '-n', 'Skype Pounce', '-s', '-a', 'Skype', '-m', "#{user} is online\n#{time}")
