@@ -1,3 +1,5 @@
+2009-03-28: Forked from git://gist.github.com/85859.git (wezm) -- matthewfallshaw
+
 I turned off most of Skype's pesky notifications. This pair of scripts allows 
 you to be notified when a particular user becomes available. Since it is 
 separate from the Skype application its settings can be customised individually 
@@ -7,3 +9,5 @@ notification as a bezel.
 It probably isn't necessary for this to be two seperate scripts. At some point
 I should look in to consolidating them into one AppleScript or one Ruby scirpt.
 Probably the former.
+-- 
+wezm
